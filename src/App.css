@@ -50,6 +50,7 @@ header input:focus{
     flex-direction: column;
     margin: 1em 0;
     max-width: 33.33%;
+    cursor: pointer;
 }
 
 .gridContainer .gridItem img{
